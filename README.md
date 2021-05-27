@@ -1,7 +1,5 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets.jpg](Images/exoplanets.jpg)
-
 ### Before You Begin
 
 1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
